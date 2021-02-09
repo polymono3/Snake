@@ -1,0 +1,8 @@
+﻿  Game.cpp
+f:\polymono3\c++\game development\snake\snake\src\game.cpp(194): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+f:\polymono3\c++\game development\snake\snake\src\game.cpp(230): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Main.cpp
+  SoundManager.cpp
+  TextGenerator.cpp
+  Generating Code...
+  Snake.vcxproj -> F:\polymono3\C++\Game Development\Snake\Snake\build\Debug\Snake.exe
